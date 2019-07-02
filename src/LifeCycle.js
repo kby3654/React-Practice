@@ -34,4 +34,4 @@ class ApiEx extends Component{
 실행 -> render -> componentDidMount -> Api -> render 가 상태변화를 감지하고 재실행
  */
 export default ApiEx;
-ReactDOM.render(<ApiEx />, document.getElementById('root'));
+//ReactDOM.render(<ApiEx />, document.getElementById('root'));
